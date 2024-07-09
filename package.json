@@ -10,7 +10,7 @@
   ],
   "main": "index.js",
   "bin": {
-    "ph": "./bin/cli.js"
+    "cn": "./bin/cli.js"
   },
   "repository": {
     "url": "https://github.com/Vincent0700/node-process-hider.git",
